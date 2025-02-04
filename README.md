@@ -22,7 +22,6 @@ A simple and interactive To-Do List web application built using HTML, CSS, JavaS
     🗑️ Use "Delete" to remove tasks.
 
 📸 Screenshot:
-
     ![To-Do List Screenshot](todo.png)
 
 
